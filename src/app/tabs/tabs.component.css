@@ -1,0 +1,40 @@
+
+  
+  button {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.35rem 0.5rem;
+    background-color: white;
+    color: black;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    width: 100%;
+    min-width: 20rem;
+    text-align: left;
+    
+    
+  }
+  
+  button:hover {
+    background-color: rgba(199, 199, 199, 0.527);
+    border-left: black solid 10px;
+  }
+  
+  img {
+    width: 3rem;
+    object-fit: contain;
+  }
+  
+  span {
+    margin: 0;
+    padding: 0;
+    font-size: 0.8rem;
+    font-weight: normal;
+  }
+  
+  p {
+    font-size: 20px;
+    color: black;
+  }
